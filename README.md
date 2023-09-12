@@ -13,32 +13,36 @@
 <div align="center"> 
      <a href="https://linkedin.com/in/abdullatifkurkcu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 <hr>
 
-<h2 align="center"> 🔥 Languages - Frameworks - Tools 🔥</h2>
-
-<p align="center" >
+<details>
+<summary><h2 align="center"> 🔥 Languages - Frameworks - Tools 🔥</h2></summary>
+<br>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,qt" width=250 /><br>
     <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" width=250 />
-  </a>
+  </a><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /></a>
 </p>
-
-<p align="center">
-<a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /></a>
-</br></p>
-
+</details>
 <hr>
-<h2 align="center">👨‍💻 Learning 👨‍💻</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript" width=100 />
-  </a>
-</p>
-<hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+
+<details>
+<summary><h2> 👨‍💻 Learning 👨‍💻 </h2></summary>
 <br>
-<p align=center>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,typescript" width=100 /></a></p>
+</details>
+
+<hr>
+
+<details>
+  <summary>
+  <h2 align="center"> ⚡ Stats ⚡ </h2></summary>
+  <br>
+
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=a-krkc&theme=react&border=61dafb&border_radius=10" />
@@ -48,7 +52,7 @@
     </a>
   </div>
 
-  <br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -56,10 +60,12 @@
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-krkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&border_radius=10" />
     </a>
   </div>
-  
-</p>
+</details>
+
 <hr>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<details>
+<summary><h2>👨‍💻 Repositories 👨‍💻</h2> </summary>
 <br>
 <div width="100%" align="center">
   
@@ -67,17 +73,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-krkc&title
   
 <a align="left" href="https://github.com/a-krkc/Single-Page-Web-Site" title="Single Page Web Site"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=Single-Page-Web-Site&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br><br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/a-krkc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+</details>
 
-<br/><br/><br/><br/><br/><br/>
+<hr>
 
 <!-- <div width="100%" align="center">
 <a align="right" href="#" title="#"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=###&theme=react&border_color=61dafb&border_radius=10"></a> -->
 
 <!-- <a align="left" href="#" title="#"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=###&theme=react&border_color=61dafb&border_radius=10"></a>
 </div> -->
-
-<!-- <br><br><br><br><br><br> -->
-
-<h4 align="center">
-  <a href="https://github.com/a-krkc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
