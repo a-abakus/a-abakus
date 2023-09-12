@@ -4,12 +4,13 @@
 
 <br>
 
-<p align="center">
+<h3 align="center">
   👨‍💻 Front-End Developer/Coder & Learner 👨‍💻
-  <br>
+  <br><br>
   💻 I love everything about computers. 💻
   <br>
-</p>
+</h3>
+<br>
 <div align="center"> 
      <a href="https://linkedin.com/in/abdullatifkurkcu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -52,7 +53,7 @@
     </a>
   </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
