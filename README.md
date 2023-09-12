@@ -14,18 +14,25 @@
      <a href="https://linkedin.com/in/abdullatifkurkcu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
-<h2 align="center" >🔥 Languages - Frameworks - Tools 🔥</h2>
+
+<h2 align="center"> 🔥 Languages - Frameworks - Tools 🔥</h2>
+
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,qt" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,qt" width=250 /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" width=250 />
   </a>
 </p>
+
+<p align="center">
+<a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /></a>
+</br></p>
+
 <hr>
 <h2 align="center">👨‍💻 Learning 👨‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,typescript" width=100 />
   </a>
 </p>
 <hr>
