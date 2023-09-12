@@ -1,10 +1,8 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-krkc&label=Profile%20views&color=0e75b6&style=flat" alt="a-krkc" /> </p> -->
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+Welcome+To+My+Playground!" alt="Typing SVG" /></a>
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+Welcome+To+My+Playground!)](https://git.io/typing-svg)
+
+<br>
 
 <p align="center">
   👨‍💻 Front-End Developer/Coder & Learner 👨‍💻
