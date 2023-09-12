@@ -9,7 +9,7 @@
 <p align="center">
   👨‍💻 Front-End Developer/Coder & Learner 
   <br>
-  💻 I love everything about computers.
+  💻 I love everything about computers. 💻
   <br>
 </p>
 <div align="center"> 
