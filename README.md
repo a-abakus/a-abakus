@@ -19,8 +19,8 @@
 <h2 align="center" >🔥 Languages - Frameworks - Tools 🔥</h2>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,qt" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" />
   </a>
 </p>
 <hr>
