@@ -70,9 +70,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-krkc&title
 <br>
 <div width="100%" align="center">
   
-<a align="right" href="https://github.com/a-krkc/Basic-Web-Projects" title="Web Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=Basic-Web-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/a-krkc/Basic-Web-Projects" title="web projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=Basic-Web-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
   
-<a align="left" href="https://github.com/a-krkc/Single-Page-Web-Site" title="Single Page Web Site"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=Single-Page-Web-Site&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/a-krkc/Single-Page-Web-Site" title="single page web site"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=Single-Page-Web-Site&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br><br>
 <h4 align="center">
