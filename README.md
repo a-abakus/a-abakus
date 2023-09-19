@@ -22,7 +22,7 @@
 <br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,qt" width=250 /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,sass,python,qt" width=250 /><br>
     <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" width=250 />
   </a><br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
