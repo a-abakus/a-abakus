@@ -25,8 +25,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,qt" width=275 /><br>
     <img src="https://skillicons.dev/icons?i=git,github,md,linux,bash,vim,vscode,vite" width=275 />
   </a><br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" /></a>
   <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /></a>
+  <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-1793D1?style=flat&logo=ubuntu&logoColor=white" /></a>
+  
 </p>
 </details>
 <hr>
