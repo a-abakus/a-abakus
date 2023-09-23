@@ -28,6 +28,7 @@
   <a href="https://www.linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" /></a>
   <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /></a>
   <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-1793D1?style=flat&logo=ubuntu&logoColor=white" /></a>
+  <a href="https://kali.org"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-1793D1?style=flat&logo=kali-linux&logoColor=white" /></a>
   
 </p>
 </details>
