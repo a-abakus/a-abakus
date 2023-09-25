@@ -22,7 +22,7 @@
 <br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,qt" width=275 /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python" width=275 /><br>
     <img src="https://skillicons.dev/icons?i=git,github,md,linux,bash,vim,vscode,vite" width=275 />
   </a><br><br>
   <a href="https://www.linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" /></a>
