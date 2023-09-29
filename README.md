@@ -37,7 +37,7 @@
 <details>
 <summary><h2> 👨‍💻 Learning 👨‍💻 </h2></summary>
 <br>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,typescript" width=100 /></a></p>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" width=75 /></a></p>
 </details>
 
 <hr>
