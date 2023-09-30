@@ -37,7 +37,7 @@
 <details>
 <summary><h2> 👨‍💻 Learning 👨‍💻 </h2></summary>
 <br>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" width=75 /></a></p>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" width=50 /></a></p>
 </details>
 
 <hr>
@@ -75,7 +75,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-krkc&title
   
 <a align="right" href="https://github.com/a-krkc/web-projects" title="web projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=web-projects&theme=react&border_color=61dafb&border_radius=10"></a>
   
-<a align="left" href="https://github.com/a-krkc/single-page-web-site" title="single page web site"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=single-page-web-site&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/a-krkc/vue3-projects" title="vue3 projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=a-krkc&repo=vue3-projects&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br><br>
 <h4 align="center">
