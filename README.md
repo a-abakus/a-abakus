@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+Welcome+To+My+Playground!)](https://git.io/typing-svg)
 
 
-
 <h3 align="center">
   👨‍💻 Front-End Developer/Coder & Learner 👨‍💻
-  <br><br>
-  💻 I love everything about computers. 💻
-  <br>
 </h3>
+<h3 align="center">
+  💻 I love everything about computers. 💻
+</h3>
+
 <br>
 <div align="center"> 
-     <a href="https://linkedin.com/in/abdullatifkurkcu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://linkedin.com/in/abdullatifkurkcu" target="_blank"><img  width=100 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <hr>
@@ -22,8 +22,8 @@
 <br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,vscode,vite" width=225/>
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,vim,git,github" width=225 /></a>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,vite,vscode,python,linux,bash,vim,git,github" width=425/>
+</a>
   <br><br>
   <a href="https://www.linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" /></a>
   <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /></a>
