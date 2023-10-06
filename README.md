@@ -34,7 +34,7 @@
 <hr>
 
 <details>
-<summary><h3> 👨‍💻 Learning 👨‍💻 </h3></summary>
+<summary><h3> 🕵‍♀️ Learning 🕵‍♀️ </h3></summary>
 <br>
 <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" width=40 /></a></p>
 </details>
