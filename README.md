@@ -1,6 +1,6 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-krkc&label=Profile%20views&color=0e75b6&style=flat" alt="a-krkc" /> </p> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+Welcome+To+My+Playground!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There!+👋🏼;+Welcome+To+My+Playground!)](https://git.io/typing-svg)
 
 <h3 align="center">👨‍💻 Cyber Security Enthusiast 👨‍💻</h3>
 <br>
