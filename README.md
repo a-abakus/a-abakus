@@ -43,11 +43,9 @@
   <br>
   
   <div align=center>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=a-krkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&border_radius=10">
-      <img width=320 align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-krkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&border_radius=10" /></a>
+  <p>
+  <img width=320 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-krkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&locale=en&border_color=61dafb&border_radius=10" /></p>
   
-<a href="https://github-readme-stats.vercel.app/api?username=a-krkc&show_icons=true&theme=react&border_color=61dafb&border_radius=10" title="Go to Source">
-      <img align="left" width=360 src="https://github-readme-stats.vercel.app/api?username=a-krkc&show_icons=true&theme=react&border_color=61dafb&border_radius=10" /></a>
+  <p><img align="left" width=360 src="https://github-readme-stats.vercel.app/api?username=a-krkc&show_icons=true&locale=en&theme=react&border_color=61dafb&border_radius=10" /></p>
   </div>
 </details>
