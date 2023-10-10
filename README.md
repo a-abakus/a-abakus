@@ -26,7 +26,7 @@
 <summary><h3> 🕵‍♀️ Learning 🕵‍♀️ </h3></summary>
 <br>
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width=75 /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width=45 /></a>
 </p>
 </details>
 <hr>
