@@ -12,11 +12,9 @@
 
 <details>
 <summary><h3 align="center"> 🔥 Languages - Tools 🔥 </h3></summary>
-<br>
 <p>
-  <p><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,vite,vscode,python,linux,bash,vim,git,github" width=450/>
+  <p><img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,vite,vscode,python,linux,bash,vim,git,github" width=450/>
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width=35/></p>
-  <br><br>
   <a href="https://www.linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" /></a>
   <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" /></a>
   <a href="https://kali.org"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-1793D1?style=flat&logo=kali-linux&logoColor=white" /></a> 
