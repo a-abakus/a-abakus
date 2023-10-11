@@ -11,7 +11,7 @@
 <hr>
 
 <details>
-<summary><h3> 🔥 Languages - Tools 🔥 </h3></summary>
+<summary><h2> 🔥 Languages - Tools 🔥 </h2></summary>
 
   <p><img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,vite,vscode,python,linux,bash,vim,git,github" width=525/>
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width=50/></p>
@@ -23,7 +23,7 @@
 <hr>
 
 <details>
-<summary><h3> 🕵‍♀️ Learning 🕵‍♀️ </h3></summary>
+<summary><h2> 🕵‍♀️ Learning 🕵‍♀️ </h2></summary>
 <br>
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width=55 /></a>
@@ -33,13 +33,10 @@
 <hr>
 
 <details>
-  <summary>
-  <h3> 🔎 Stats 🔍 </h3></summary>
+  <summary><h2> 🔎 Stats 🔍 </h2></summary>
   <br>
-  
   <div align=center>
-  <p>
-  <img width=370 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-krkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&locale=en&border_color=61dafb&border_radius=10" /></p>
+  <p><img width=370 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-krkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&locale=en&border_color=61dafb&border_radius=10" /></p>
   
   <p><img align="left" width=410 src="https://github-readme-stats.vercel.app/api?username=a-krkc&show_icons=true&locale=en&theme=react&border_color=61dafb&border_radius=10" /></p>
   </div>
