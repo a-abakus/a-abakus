@@ -13,21 +13,11 @@
 <details>
 <summary><h2> 🔥 Languages - Tools 🔥 </h2></summary>
 
-  <p><img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,vite,vscode,python,linux,bash,vim,git,github" width=525/>
+  <p><img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,vite,vscode,python,linux,bash,vim,git,github,nodejs" width=550/>
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width=50/></p>
   <p><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" width="70" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" width="105" />
   <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-1793D1?style=flat&logo=kali-linux&logoColor=white" width="96"/></p>
-</details>
-
-<hr>
-
-<details>
-<summary><h2> 🕵‍♀️ Learning 🕵‍♀️ </h2></summary>
-<br>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width=55 /></a>
-</p>
 </details>
 
 <hr>
