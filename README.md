@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There!+👋🏼;+Welcome+To+My+Playground!)](https://git.io/typing-svg)
 
-<h1 align="center"> 👨‍💻 Cyber Security Enthusiastic 👨‍💻 </h1>
+<h1 align="center"> 👨‍💻 Cyber Security Enthusiast 👨‍💻 </h1>
 <br>
 <div align="center"> 
      <a href="https://linkedin.com/in/abdullatifkurkcu" target="_blank"><img  width=105 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -11,13 +11,11 @@
 <hr>
 
 <details>
-<summary><h2> 🔥 Languages - Tools 🔥 </h2></summary>
+<summary><h2> 🔥 Tools 🔥 </h2></summary>
 
-  <p><img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,vite,vscode,python,linux,bash,vim,git,github,nodejs" width=550/>
-  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width=50/></p>
+  <p><img src="https://skillicons.dev/icons?i=linux,bash,vim,python,git,github,vscode" width=330/>
   <p><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" width="70" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" width="105" />
-  <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-1793D1?style=flat&logo=kali-linux&logoColor=white" width="96"/></p>
 </details>
 
 <hr>
