@@ -9,7 +9,7 @@
 </div>
 
 <hr>
-  <p><img src="https://skillicons.dev/icons?i=linux,bash,vim,python,git,github,pycharm,vscode" width=330/>
+  <p><img src="https://skillicons.dev/icons?i=linux,vim,bash,git,python,pycharm,vscode,github" width=330/>
   <p><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white" width="70" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" width="105" />
 <hr>
