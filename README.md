@@ -4,6 +4,10 @@
 
 <h1 align="center"> 👨‍💻 Cyber Security Enthusiast 👨‍💻 </h1>
 <br>
+<div align="center">
+     <a href="https://a-abakus.github.io/" target="_blank">My Blog 💀</a>
+</div>
+<br>
 <div align="center"> 
      <a href="https://linkedin.com/in/abdullatifkurkcu" target="_blank"><img  width=105 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
