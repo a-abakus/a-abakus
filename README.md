@@ -5,7 +5,7 @@
 <h1 align="center"> 👨‍💻 Cyber Security Enthusiast 👨‍💻 </h1>
 <br>
 <div align="center">
-     <a href="https://a-abakus.github.io/" target="_blank">My Blog 💀</a>
+     <a href="https://a-abakus.github.io/" target="_blank">💀 My Blog 💀</a>
 </div>
 <br>
 <div align="center"> 
